@@ -1,0 +1,21 @@
+.home_page:visited {
+  color:;
+  padding: 15px 25px;
+  display: inline-block;
+}
+
+.home_page:link,  {
+ 
+}
+
+.home_page:hover, .a_class:active {
+   color: ;
+  text-decoration: none;
+
+}
+
+.home:hover{
+     
+     background-color:#f1f1f1;
+
+}
